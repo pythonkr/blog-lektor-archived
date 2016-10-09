@@ -1,0 +1,5 @@
+[project]
+name = Pycon KR blog
+
+[servers.ghpages]
+target = ghpages+https://pythonkr/
