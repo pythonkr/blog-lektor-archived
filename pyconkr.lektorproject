@@ -2,4 +2,4 @@
 name = Pycon KR blog
 
 [servers.ghpages]
-target = ghpages+https://pythonkr/blog.pycon.kr
+target = ghpages+https://pythonkr/blog.pycon.kr?cname=blog.pycon.kr
