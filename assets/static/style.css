@@ -3,22 +3,22 @@ body {
 }
 
 a {
-    color: #2a99b6;
+    /*color: #2a99b6;*/
 }
 
 a:hover {
-    color: #33bbdf;
+    /*color: #33bbdf;*/
 }
 
 header, footer, div.page {
-    width: 760px;
-    margin: 0 auto;
-    background: #daeef3;
+    display: block;
     padding: 20px 30px;
+    margin: 0 auto;
+    width: 760px;
 }
 
 header h1 {
-    color: #169bbd;
+    color: #504e49;
     margin: 0;
     font-weight: normal;
     font-size: 42px;
@@ -26,6 +26,7 @@ header h1 {
 
 header nav ul {
     list-style: none;
+    color: #504e49;
     margin: 0;
     padding: 0;
 }
@@ -37,7 +38,6 @@ header nav ul li {
 }
 
 div.page {
-    background: #f1fbfe;
 }
 
 
